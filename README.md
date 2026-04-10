@@ -86,7 +86,8 @@ Scalable & maintainable systems
 Business-driven development mindset
 
 🌐 Connect With Me
-💼 LinkedIn: [[Your LinkedIn Link]](https://www.linkedin.com/in/vishaljoshi432)
+
+💼 LinkedIn: [[LinkedIn Link]](https://www.linkedin.com/in/vishaljoshi432)
 🌍 Portfolio: https://vishaljoshi.dev/
 💻 GitHub: [Your GitHub Profile]
 🤝 Let's Collaborate
